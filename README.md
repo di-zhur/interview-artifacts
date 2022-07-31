@@ -4,6 +4,7 @@
 ## System Design Interview
 - Видео
     - [Distributed Systems](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=1)
+    - [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
 
 ## Operating System
@@ -15,3 +16,8 @@
 ## Java
 - Видео
   - [Курс Java Валеев](https://www.youtube.com/watch?v=QGHGR0xEcFA&list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z)
+
+
+## Database
+- Статья
+  - [NoSQL](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.wskogqenq)
