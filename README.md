@@ -17,7 +17,7 @@
 ## Java
 - Видео
   - [Курс Java Валеев](https://www.youtube.com/watch?v=QGHGR0xEcFA&list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z)
-  - [Jakob Jenkov The Java Memory Model - The Basics] (https://www.youtube.com/watch?v=LCSqZyjBwWA)
+  - [Jakob Jenkov The Java Memory Model - The Basics](https://www.youtube.com/watch?v=LCSqZyjBwWA)
 
 ## Database
 - Статья
