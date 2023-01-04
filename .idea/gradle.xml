@@ -15,10 +15,55 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-db-test" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-db-test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/spring-examples" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/spring-examples" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-web-rest-api-fourth" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-web-rest-api-fourth" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-webflux-rest-api-first" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-webflux-rest-api-first" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-webflux-rest-api-second" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-webflux-rest-api-second" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-webflux-rest-api-third" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-webflux-rest-api-third" />
           </set>
         </option>
       </GradleProjectSettings>
