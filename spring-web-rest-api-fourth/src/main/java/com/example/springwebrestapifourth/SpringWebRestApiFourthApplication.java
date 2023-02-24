@@ -9,4 +9,5 @@ public class SpringWebRestApiFourthApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringWebRestApiFourthApplication.class, args);
 	}
+}
 

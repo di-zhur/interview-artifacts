@@ -1,5 +1,12 @@
 # Interview заметки
 
+## Вопросы
+
+
+
+
+
+
 
 ## System Design Interview
 - Видео
