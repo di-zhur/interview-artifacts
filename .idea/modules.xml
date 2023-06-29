@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.spring-db-test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.spring-db-test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.spring-examples.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.spring-examples.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.spring-web-rest-api-fourth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.spring-web-rest-api-fourth.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/interview-artifacts-2.iml" filepath="$PROJECT_DIR$/.idea/interview-artifacts-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-db-test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-db-test.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-examples.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-examples.main.iml" />
