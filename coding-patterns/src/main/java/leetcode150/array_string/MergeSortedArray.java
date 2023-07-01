@@ -1,5 +1,9 @@
 package leetcode150.array_string;
 
+import javax.swing.tree.TreeNode;
+import java.util.LinkedList;
+import java.util.Queue;
+
 // https://tutorialcup.com/leetcode-solutions/merge-sorted-arrays-leetcode-solution.htm
 public class MergeSortedArray {
 
@@ -22,6 +26,12 @@ public class MergeSortedArray {
         return;
     }
     public static void main(String args[]) {
+        Queue<String> q = new LinkedList<>();
+        q.offer("root");
+        q.offer(null);
+        System.out.print(q.poll());
+
+
         int m = 3 , n = 3;
         int[] a = new int[m + n];
         a[0] = 3;
