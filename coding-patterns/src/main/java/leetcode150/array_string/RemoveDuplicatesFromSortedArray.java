@@ -14,7 +14,7 @@ public class RemoveDuplicatesFromSortedArray {
     public static int removeDuplicates(int[] nums) {
         int i = 0;
         for (int num : nums) {
-            if (1 > i || num != nums[i - 1]) {
+            if (1 > i || nums[i - 1] != num) {
                 nums[i] = num;
                 i = i + 1;
             }
