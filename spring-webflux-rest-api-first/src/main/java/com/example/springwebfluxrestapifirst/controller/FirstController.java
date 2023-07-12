@@ -22,25 +22,6 @@ public class FirstController {
         return getFluxString();
     }
 
-    PostgresqlConnectionFactory connectionFactory = new PostgresqlConnectionFactory(PostgresqlConnectionConfiguration.builder()
-            .host(…)
-            .database(…)
-            .username(…)
-            .password(…).build());
-
-    R2dbcEntityTemplate template = new R2dbcEntityTemplate(connectionFactory);
-
-    Mono<Integer> update = template.update(Person.class)
-            .inTable("person_table")
-            .matching(query(where("firstname").is("John")))
-            .apply(update("age", 42));
-
-    Flux<Person> all = template.select(Person.class)
-            .matching(query(where("firstname").is("John")
-                    .and("lastname").in("Doe", "White"))
-                    .sort(by(desc("id"))))
-            .all();
-
     private Flux<String> getFluxString() {
 
 
