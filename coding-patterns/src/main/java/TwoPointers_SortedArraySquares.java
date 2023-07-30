@@ -1,3 +1,7 @@
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Map;
+
 public class TwoPointers_SortedArraySquares {
 
     public static int[] makeSquares(int[] arr) {
@@ -20,6 +24,8 @@ public class TwoPointers_SortedArraySquares {
     }
 
     public static void main(String[] args) {
+        Map<String, String> map = new HashMap<>();
+
         int[] result = makeSquares(new int[] { -2, -1, 0, 2, 3 });
         for (int num : result)
             System.out.print(num + " ");
